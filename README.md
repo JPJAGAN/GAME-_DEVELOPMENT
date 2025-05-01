@@ -1,24 +1,19 @@
+# Name : JAGAN JP
+# Reg no : 212224230099
+
+
 # EX 4 : ELLIPSE DRAWING ALGORITHM
 
-NAME : MOHAMED NIZAMUDDIN A
-
-REG NO: 212224040194
-
-**AIM :**
-
-
+# AIM :
 To  implement the Bresenham’s  algorithm for ellipse using a c coding.
 
-
-**EQUIPMENT REQUIRED:**
-
+# EQUIPMENT REQUIRED:
 
 ●	Hardware: Personal Computer (PC)
 
-
 ●	Software: C Compiler
 
-**ALGORITHM :**
+# ALGORITHM :
 
 Step 1 : Start.
   
@@ -35,9 +30,9 @@ Step  6 : Display the output.
 Step 7 : stop.
 
 
-**Program :**
+# Program :
 
-```
+
 #include "stdio.h" 
 #include "conio.h" 
 #include "math.h" 
@@ -111,14 +106,14 @@ int plotpoints(int xcenter,int ycenter,int x,int y)
   return 0;
  
 }
-```
 
 
-**Output :**
 
-![ellipsegamedevlopment](https://github.com/user-attachments/assets/51b06629-23d3-4109-91e3-f236dba53d95)
+# Output :
+
+![Screenshot (8)](https://github.com/user-attachments/assets/7511bec1-d012-48cd-a77f-1554e609dd51)
 
 
-**Result :**
+# Result :
 
 Thus the Bresenham’s  algorithm for ellipse using a c coding is implemented successfully .
